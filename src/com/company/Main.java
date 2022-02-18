@@ -68,7 +68,6 @@ public class Main {
 
         System.out.println();
 
-
         System.out.println("Balance before withdrawing from the current account");
         Account cur = new Current(5000);
         cur.printBalance();
